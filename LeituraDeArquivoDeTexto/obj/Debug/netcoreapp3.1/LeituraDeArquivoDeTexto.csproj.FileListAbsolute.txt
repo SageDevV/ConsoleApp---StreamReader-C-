@@ -1,0 +1,14 @@
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\bin\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.exe
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\bin\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.deps.json
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\bin\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.runtimeconfig.json
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\bin\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.runtimeconfig.dev.json
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\bin\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.dll
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\bin\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.pdb
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\obj\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.csproj.AssemblyReference.cache
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\obj\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\obj\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\obj\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.AssemblyInfo.cs
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\obj\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\obj\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.dll
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\obj\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.pdb
+C:\Users\122589\source\repos\LeituraDeArquivoDeTexto\LeituraDeArquivoDeTexto\obj\Debug\netcoreapp3.1\LeituraDeArquivoDeTexto.genruntimeconfig.cache
